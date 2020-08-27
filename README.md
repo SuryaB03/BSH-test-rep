@@ -1,2 +1,3 @@
 BSH-test-rep readme
-update 0.1
+update 0.2
+
